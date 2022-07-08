@@ -8,8 +8,8 @@
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-$~ git clone https://github.com/brothergiez/electronSwitchWindow.git
-$~ cd electronSwitchWindow
-$~ npm i
-$~ npm run start
+git clone https://github.com/brothergiez/electronSwitchWindow.git
+cd electronSwitchWindow
+npm i
+npm run start
 ```
